@@ -1,4 +1,4 @@
-//*
+/*
 	bfs
 	This problem requires you to implement a basic BFS algorithm
 */
